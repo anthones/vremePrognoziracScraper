@@ -1,0 +1,24 @@
+html { 
+  background: url(background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body {
+  background: none;
+}
+.container {
+  text-align: center;
+  margin-top: 100px;
+  width: 550px;
+}
+h1, label {
+  color: white;
+}
+input {
+  margin: 20px 0;
+}
+#vreme {
+  margin-top: 15px;
+}
